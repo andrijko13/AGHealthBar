@@ -1,5 +1,5 @@
 # AGHealthBar
-Health Bar class to be used with Apple's iOS SpriteKit library.
+Objective-C Health Bar class to be used with Apple's iOS SpriteKit library.
 
 ##Usage:
 
