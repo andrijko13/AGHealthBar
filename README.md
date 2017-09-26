@@ -3,6 +3,8 @@ Objective-C Health Bar class to be used with Apple's iOS SpriteKit library.
 
 # Usage:
 
+Import the AGHealthBar.h and AGHealthBar.m files into your project.
+
 Using the class is simple. After opening up a SpriteKit project, follow these steps to get a health bar up and running:
 
 ```Objective-C
